@@ -1,3 +1,5 @@
+![clothing_classification](clothing_classification.png)
+
 # Project Instructions
 
 Automate product tagging for the e-commerce store using CNNs.

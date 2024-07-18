@@ -1,0 +1,5 @@
+torchmetrics
+nltk
+pandas
+scikit-learn
+torch
